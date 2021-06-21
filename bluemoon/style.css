@@ -1,0 +1,21 @@
+/*
+Theme Name: Blue Moon
+Theme URI: 
+Author: Anna Luiza Correia Serrano
+Author URI: http://wordpress.org/
+Description: Tema azul wordpress. APW.
+Text Domain: bluemoon
+
+*/
+
+.imagem{
+	width: 10%;
+	height: 100px;
+}
+
+.rodape{
+	background-color: #F2F2F2;
+	width: 100%;
+	
+	text-align: center;
+}
